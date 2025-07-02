@@ -1,7 +1,7 @@
-Natural Language to Linux Command – Android Application
+# Natural Language to Linux Command – Android Application
 An Android app that allows users to interact with multiple large language models (LLMs) including ChatGPT, Claude, and Gemini. Enter a natural language prompt and get an intelligent command or response instantly.
 
-🚀 How to Run the Application
+**🚀 How to Run the Application**
 ✅ Prerequisites
 Before running the app, ensure the following are installed or set up:
 
@@ -67,7 +67,7 @@ Select your emulator or connected device.
 
 The app will build and launch.
 
-📱 How to Use the Application
+**📱 How to Use the Application**
 ✏️ Enter Your Prompt
 Use the text input field at the top labeled "Enter your prompt...".
 
