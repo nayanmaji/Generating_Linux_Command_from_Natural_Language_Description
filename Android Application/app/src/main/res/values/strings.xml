@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">AI Assistant</string>
+    <string name="prompt_hint">Enter your question or request...</string>
+    <string name="response_hint">AI response will appear here...</string>
+    <string name="generate_button">Generate</string>
+    <string name="copy_button">Copy</string>
+    <string name="share_button">Share</string>
+    <string name="clear_history">Clear History</string>
+    <string name="delete_item">Delete</string>
+    <string name="reply_item">Reply</string>
+    <string name="select_model">Select AI Model</string>
+    <string name="history_title">Conversation History</string>
+    <string name="empty_history">No conversation history yet.\nStart by entering a prompt above!</string>
+    <string name="generating">Generating...</string>
+    <string name="thinking">Thinking...</string>
+    <string name="copied_to_clipboard">Copied to clipboard</string>
+    <string name="response_copied">Response copied to clipboard</string>
+    <string name="history_cleared">History cleared</string>
+    <string name="error_empty_prompt">Please enter a prompt</string>
+    <string name="error_network">Network error. Please check your connection.</string>
+    <string name="error_api">API error. Please try again.</string>
+    <string name="share_response_title">Share AI Response</string>
+
+    <!-- Model names -->
+    <string name="model_chatgpt">ChatGPT (GPT-4)</string>
+    <string name="model_claude">Claude (Anthropic)</string>
+    <string name="model_gemini">Gemini (Google)</string>
+
+    <!-- Content descriptions for accessibility -->
+    <string name="content_desc_copy">Copy response to clipboard</string>
+    <string name="content_desc_share">Share response</string>
+    <string name="content_desc_delete">Delete this conversation</string>
+    <string name="content_desc_reply">Reply to this conversation</string>
+
+    <string-array name="ai_models">
+        <item>@string/model_chatgpt</item>
+        <item>@string/model_claude</item>
+        <item>@string/model_gemini</item>
+    </string-array>
+
+
+</resources>
