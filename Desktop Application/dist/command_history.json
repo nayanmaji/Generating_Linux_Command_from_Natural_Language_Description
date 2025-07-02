@@ -1,0 +1,32 @@
+[
+  {
+    "prompt": "create new file",
+    "command": "touch new_file.txt\n",
+    "api": "Gemini",
+    "timestamp": "2025-06-27 14:16:58"
+  },
+  {
+    "prompt": "Count the number of lines in data.csw",
+    "command": "wc -l data.csw\n",
+    "api": "Gemini",
+    "timestamp": "2025-06-29 09:40:31"
+  },
+  {
+    "prompt": "Count the number of lines in data.csw",
+    "command": "wc -l data.csw\n",
+    "api": "Gemini",
+    "timestamp": "2025-06-29 09:43:35"
+  },
+  {
+    "prompt": "Count the number of lines in data.csw",
+    "command": "wc -l data.csw\n",
+    "api": "Gemini",
+    "timestamp": "2025-06-29 09:45:30"
+  },
+  {
+    "prompt": "create a new file",
+    "command": "touch new_file.txt\n",
+    "api": "Gemini",
+    "timestamp": "2025-07-01 11:11:36"
+  }
+]
